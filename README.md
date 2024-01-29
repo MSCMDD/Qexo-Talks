@@ -12,3 +12,4 @@ Qexo 静态文件
 ```
 将其中的 ${SITE} 改为你的 Qexo 链接 例如 https://admin.mysite.com
 >Tips: 第三个参数为每页的说说数量, 可结合实际进行修改
+示例网站：[留言板 - M&A互助联盟](https://mscmdd.github.io/contact/)
