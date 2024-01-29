@@ -6,8 +6,8 @@ Qexo 静态文件
 在所需页面的markdown中或ejs模版中添加
 ```
 <div id="qexot" class="tag-plugin timeline"></div>
-<script src="https://cdn.jsdelivr.net/gh/MSCMDD/Qexo-Talks@main/Stellar/qexo_talk.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MSCMDD/Qexo-Talks@main/Stellar/qexo_talk.css">
+<script src="https://gcore.jsdelivr.net/gh/MSCMDD/Qexo-Talks@main/Stellar/qexo_talk.js"></script>
+<link rel="stylesheet" href="https://gcore.jsdelivr.net/gh/MSCMDD/Qexo-Talks@main/Stellar/qexo_talk.css">
 <script>showQexoTalks("qexot", "${SITE}", 5)</script>
 ```
 将其中的 ${SITE} 改为你的 Qexo 链接 例如 https://admin.mysite.com
